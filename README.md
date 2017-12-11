@@ -23,7 +23,14 @@ in csv form.
 4. Tuned hyperparameters with GridSearch.
 
 
-To run this script, unzip datasets and invoke:
+### How to Run:
+Package Dependencies:
+- numpy
+- pandas
+- sklearn
+
+Execution:
+Install required packages, unzip Train data and invoke:
 ```
 $ python src/price-prediction-model.py
 ```
