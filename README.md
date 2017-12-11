@@ -13,7 +13,7 @@ in csv form.
 - Columns selector
 
 2. Customized evaluation matrix(scoring):
-- RMSLE: ![rmsle](https://raw.githubusercontent.com/gogowenzhang/Predictive-Model-Pipeline/master/img/rmsle.pngg)
+- RMSLE: ![Alt text](https://raw.githubusercontent.com/gogowenzhang/Predictive-Model-Pipeline/master/img/rmsle.png)
 
 
 
