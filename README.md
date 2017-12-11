@@ -12,7 +12,7 @@ in csv form.
 - Aggregated statistics
 - Columns selector
 
-2. Customized evaluation matrix(scoring):
+2. Customized evaluation matric(scoring):
 - RMSLE: ![Alt text](https://raw.githubusercontent.com/gogowenzhang/Predictive-Model-Pipeline/master/img/rmsle.png)
 
 
