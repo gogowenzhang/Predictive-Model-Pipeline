@@ -13,7 +13,7 @@ in csv form.
 - Columns selector
 
 2. Customized evaluation matrix(scoring):
-- RMSLE: 
+- RMSLE: ![rmsle](Predictive-Model-Pipeline/img/rmsle.png)
 
 
 
