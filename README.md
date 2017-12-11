@@ -15,10 +15,13 @@ in csv form.
 2. Customized evaluation matrix(scoring):
 - RMSLE: 
 
+
+
 3. Customized cross validation split:
 - Split training and test data by datetime. 
 
 4. Tuned hyperparameters with GridSearch.
+
 
 To run this script, unzip datasets and invoke:
 ```
