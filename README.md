@@ -25,9 +25,9 @@ in csv form.
 
 ### How to Run:
 Package Dependencies:
-- numpy
-- pandas
-- sklearn
+- numpy==1.13.1
+- pandas==0.19.2
+- sklearn==0.18.1
 
 Execution:
 Install required packages, unzip Train data and invoke:
